@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+.env
+.idea/
+.vscode/
+.DS_Store
+qdrant_storage/
+postgres_data/
+redis_data/
